@@ -16,9 +16,7 @@
   <a href="https://www.linkedin.com/in/contactsaketh/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/Sak3th2004">
-    <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+ 
   <a href="https://gsakethram.in">
     <img src="https://img.shields.io/badge/Portfolio-7B42F6?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>

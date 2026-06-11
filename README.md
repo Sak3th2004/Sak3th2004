@@ -189,7 +189,7 @@ const saketh = {
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sak3th2004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Sak3th2004&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7F7&ring=00F7F7&fire=FF6B6B&currStreakLabel=00F7F7" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sak3th2004&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7F7&fire=FF6B6B&currStreakLabel=00F7F7" />
 </div>
 
 <div align="center">

@@ -40,7 +40,6 @@
 ```javascript
 const saketh = {
     name: "Gunnam Sai Saketh Ram",
-    role: "Final-Year CSE Student | Software Developer",
     location: "Bengaluru, India 🇮🇳",
     education: "B.Tech CSE @ GITAM University, 2026",
     focus: ["Backend Development", "AI/ML", "Agentic AI", "Scalable Software"],

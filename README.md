@@ -54,7 +54,7 @@ const saketh = {
 };
 ```
 
-* 🎓 Final-year **B.Tech Computer Science Engineering** student at **GITAM University, Bengaluru**
+* 🎓 **B.Tech Computer Science Engineering** | **GITAM University, Bengaluru**
 * 💻 Building projects with **Python, Java, FastAPI, Spring Boot, React, SQL and Docker**
 * 🤖 Interested in **AI/ML, RAG, Agentic AI and backend systems**
 * 🏆 **Grand Champion — ET GenAI Hackathon 2026** among 50,000+ participants

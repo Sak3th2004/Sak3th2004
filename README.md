@@ -6,7 +6,7 @@
 
 <!-- Typing Animation -->
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=850&height=100&lines=Software+Developer+%F0%9F%92%BB;Backend+%7C+AI%2FML+%7C+Full-Stack+Projects+%E2%9A%A1;Python+%7C+Java+%7C+FastAPI+%7C+Spring+Boot+%F0%9F%9A%80;ET+GenAI+Hackathon+Grand+Champion+%F0%9F%8F%86;IEEE+Published+Author+%F0%9F%93%84" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=850&height=100&lines=Software+Developer+%F0%9F%92%BB;Backend+%7C+AI%2FML+%7C+Full-Stack+Projects+%E2%9A%A1;Python+%7C+Java+%7C+FastAPI+%7C+Spring+Boot+%F0%9F%9A%80;ET+GenAI+Hackathon+Grand+Champion+%F0%9F%8F%86;IEEE+Conference+Paper+%F0%9F%93%84" alt="Typing SVG" />
 
 <br>
 
@@ -46,8 +46,8 @@ const saketh = {
     skills: ["Python", "Java", "FastAPI", "Spring Boot", "React", "SQL", "Docker"],
     achievements: [
         "ET GenAI Hackathon 2026 Grand Champion",
-        "IEEE Published Author",
-        "Oracle Cloud Infrastructure Certified"
+        "IEEE Conference Paper",
+        "OCI 2025 Certified AI Foundations Associate"
     ],
     motto: "Build clean. Learn fast. Ship real products."
 };
@@ -56,8 +56,8 @@ const saketh = {
 * 🎓 **B.Tech Computer Science Engineering** | **GITAM University, Bengaluru**
 * 💻 Building projects with **Python, Java, FastAPI, Spring Boot, React, SQL and Docker**
 * 🤖 Interested in **AI/ML, RAG, Agentic AI and backend systems**
-* 🏆 **Grand Champion — ET GenAI Hackathon 2026** among 50,000+ participants
-* 📄 **IEEE Published Author** in Zero-Knowledge Proof based authentication
+* 🏆 **[Grand Champion — ET GenAI Hackathon 2026](https://economictimes.indiatimes.com/ai/ai-insights/et-genai-hackathon-first-edition-wraps-up-bold-ideas-win-big/articleshow/130638874.cms)** among 50,000+ participants
+* 📄 **[IEEE Conference Paper](https://drive.google.com/file/d/1cwPOk2Gpc3bjMYWYEWoYm0x04DDCUDYr/view?usp=sharing)** on Zero-Knowledge Proof based authentication
 * 🚀 Open to **Software Engineer, Backend Developer and AI/ML opportunities**
 
 <br clear="right"/>
@@ -133,6 +133,10 @@ const saketh = {
 
 <div align="center">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux_CLI-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
@@ -172,11 +176,25 @@ const saketh = {
 
 | Achievement                     | Details                                                       |
 | ------------------------------- | ------------------------------------------------------------- |
-| 🥇 **ET GenAI Hackathon 2026**  | Grand Champion among 50,000+ participants                     |
-| 📄 **IEEE Publication**         | First author for Zero-Knowledge Proof authentication research |
+| 🥇 **[ET GenAI Hackathon 2026](https://economictimes.indiatimes.com/ai/ai-insights/et-genai-hackathon-first-edition-wraps-up-bold-ideas-win-big/articleshow/130638874.cms)**  | Grand Champion among 50,000+ participants                     |
+| 📄 **[IEEE Conference Paper](https://drive.google.com/file/d/1cwPOk2Gpc3bjMYWYEWoYm0x04DDCUDYr/view?usp=sharing)** | First author — Zero-Knowledge Proof based authentication |
 | 🏅 **IEEE Poster Presentation** | 2nd Prize for Explainable AI                                  |
-| ☁️ **Oracle Cloud**             | OCI Foundations Associate certified                           |
+| ☁️ **[Oracle Cloud](https://drive.google.com/file/d/1MO0JY9GLQvVS_xC1WLUemseEXcFU5JjQ/view?usp=sharing)** | OCI 2025 Certified AI Foundations Associate |
 | 🧠 **Intel Unnati**             | Completed AI industrial training internship                   |
+
+</div>
+
+<!-- Animated Divider -->
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<h2 align="center">🌐 Open Source Contributions</h2>
+
+<div align="center">
+
+| Project | Contribution | Status |
+| --- | --- | --- |
+| Jenkins | Starting Dec 2026 | 🔜 |
 
 </div>
 

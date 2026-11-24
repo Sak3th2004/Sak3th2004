@@ -157,12 +157,15 @@ const saketh = {
 
 <div align="center">
 
-| Project                            | Tech Stack                                                                       | What I Built                                                                                                         |
-| ---------------------------------- | -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
-| 🌱 **AgriBloom Agentic**           | Python, PyTorch, EfficientNet-B4, LangGraph, Gemini Vision API, ChromaDB, Gradio | AI advisory system for farmers with image-based disease detection, RAG knowledge retrieval and multilingual guidance |
-| 🔐 **ZKProofAPI**                  | Python, FastAPI, PostgreSQL, Redis, Celery, React, Docker                        | Zero-Knowledge Proof authentication platform with REST APIs, SDKs, async processing and CI/CD                        |
-| ☁️ **AI Cloud Resource Optimizer** | Java, Spring Boot, React, MongoDB, Docker, Pinecone                              | Cloud workload optimization system with REST APIs, analytics dashboard and vector search                             |
-| 🖼️ **AI Image Super-Resolution**  | Python, PyTorch, TensorFlow, Pandas, NumPy                                       | Intel Unnati internship project focused on lightweight image super-resolution and benchmarking                       |
+| Project | Tech Stack | What I Built |
+| --- | --- | --- |
+| 🌱 **[AgriBloom Agentic](https://github.com/Sak3th2004/AgriBloom-Agentic-ET2026)** | Python, LangGraph, EfficientNet, Gemini Vision, ChromaDB, Gradio | Multi-agent farm advisory: image-based crop disease detection, RAG retrieval, multilingual guidance. ET GenAI Hackathon 2026 winner |
+| 🚨 **[AegisPilot](https://github.com/Sak3th2004/Aegisops)** | Python, Google ADK, Gemini, Vertex AI, FastAPI, React, Cloud Run | Autonomous SRE on-call agent: six agents triage alerts, read logs and Grafana dashboards, propose human-approved fixes and write the RCA |
+| 🧓 **[Saarthi](https://github.com/Sak3th2004/Saarthi)** | Python, TypeScript, MCP, Neo4j, Amazon Bedrock | Family care notebook with persistent graph memory, evidence-linked voice conversations and reviewed calendar/email actions |
+| 🔐 **[ZKProofAPI](https://github.com/Sak3th2004/Zkp_Project)** | Python, FastAPI, PostgreSQL, Redis, Celery, Next.js, Docker | Zero-Knowledge Proof authentication platform with REST APIs and async proof processing |
+| ☁️ **[Cloud Optima](https://github.com/Sak3th2004/cloud-optima)** | Java, Spring Boot, React, MongoDB, Pinecone, Docker | Predicts cloud resource needs, with an analytics dashboard and vector search |
+| 🛡️ **[AMLGuard Simulator](https://github.com/Sak3th2004/amlguard-simulator)** | Java, Spring Boot, Kafka, MongoDB, Docker | Real-time anti-money-laundering compliance platform simulator |
+| 🖼️ **[Image Super-Resolution](https://github.com/Sak3th2004/Image-Knowledge-Distillation)** | Python, PyTorch, OpenCV | Intel Unnati 2025: distilled a SwinIR teacher into a 483K-param CNN (SSIM 0.927, PSNR 28.5 dB) |
 
 </div>
 
